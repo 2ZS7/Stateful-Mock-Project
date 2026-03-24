@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/2ZS7/stateful-mock
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/2ZS7/frontend-mock
