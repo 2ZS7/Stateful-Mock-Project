@@ -43,7 +43,7 @@
 
 ### Клонирование репозитория:
 
-`git clone --recursive [[ссылка_на_главный_репозиторий]](https://github.com/2ZS7/Stateful-Mock-Project)`
+`git clone --recursive https://github.com/2ZS7/Stateful-Mock-Project
 
 ### Как обновлять код:
 Нужно зайти в корень и «подтянуть» обновления:
